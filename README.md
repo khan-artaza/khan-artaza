@@ -21,4 +21,4 @@
 </a>
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/khan-artaza/blob/output/github-contribution-grid-snake.svg)
+
